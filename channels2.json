@@ -1,0 +1,50 @@
+[
+  {
+    "chid": 1131,
+    "name": "Demo channel 1",
+    "address": "tvbus://1R8Rw3uqyfdkci7b9VWm7N17ynqv259h1Bo7i2uyi9bmq513uX",
+    "startTime": 1493128627,
+    "qs": 100,
+    "qc": 98,
+    "users": 8,
+    "trending": 0.13333334,
+    "from": "CN",
+    "type": "public"
+  },
+  {
+    "chid": 1132,
+    "name": "Demo channel 2",
+    "address": "tvbus://12MGYHm2fp2wtTjiGpDsbD1odpShZDSn5ub2y74ok1HX5WB6wk",
+    "startTime": 1493128626,
+    "qs": 100,
+    "qc": 99,
+    "users": 7,
+    "trending": 0.03333334,
+    "from": "CN",
+    "type": "public"
+  },
+  {
+    "chid": 1134,
+    "name": "Demo channel 3",
+    "address": "tvbus://1CA1abneBv2mhnLyEzjh42Fg3ehAuL1vQcbPUygwh7CXz5dejb",
+    "startTime": 1493128625,
+    "qs": 100,
+    "qc": 100,
+    "users": 6,
+    "trending": 0.02333334,
+    "from": "CN",
+    "type": "public"
+  },
+  {
+    "chid": 1138,
+    "name": "Demo channel 4",
+    "address": "tvbus://12VFuSR8upLqpWEdDXipjrq1rci3sv8rzfDn8c1c7xymtEk8vwt",
+    "startTime": 1493128621,
+    "qs": 100,
+    "qc": 98,
+    "users": 2,
+    "trending": 0.07333334,
+    "from": "CN",
+    "type": "public"
+  }
+]

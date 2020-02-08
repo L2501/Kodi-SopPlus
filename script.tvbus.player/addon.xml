@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.tvbus.player" name="script.tvbus.player" version="1.0" provider-name="Tvbus">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.kodi-six" />
+        <import addon="script.module.routing" />
+    </requires>
+    <extension point="xbmc.python.script" library="default.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        <summary lang="en">Tvbus</summary>
+        <description lang="en">Tvbus</description>
+    </extension>
+</addon>
